@@ -5,3 +5,11 @@ When going through a box, I always try to root the box (even if it is not intend
 I hope you can all learn a lot from reading my writeups. If anybody has any suggestions or comments, please feel free to contant me: djxevis@gmail.com
 
 ## TryHackMe
+
+### Avengers (Easy)
+
+A fun CTF-like box with an easter egg and cool (unintended) foothold. I root this box in a quite unique way, which the author of the box certainly did not intend.
+
+### Keldagrim (Medium)
+
+A reaslistic box. Many things were learned during this challenge, and I highly recommend reading this writeup.

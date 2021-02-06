@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to 0xd4y WriteUps!
 
-You can use the [editor on GitHub](https://github.com/0xd4y/WriteUps/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here I publish all my writeups primarily from TryHackMe and HacktheBox. I tend to go in-depth about the exploits, and give you good resources to where you can learn more about a specific topic.
+When going through a box, I always try to root the box (even if it is not intended). This can lead to some very interesting discoveries on how the whole box was created. Some may be surprised to hear that sometimes the creator of a box has easter eggs laying around the system.
+I hope you can all learn a lot from reading my writeups. If anybody has any suggestions or comments, please feel free to contant me: djxevis@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/0xd4y/WriteUps/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## TryHackMe

@@ -5,7 +5,9 @@ When going through a box, I always try to root the box (even if it is not intend
 
 I hope you can all learn a lot from reading my writeups. If anybody has any suggestions or comments, please feel free to contact me: djxevis@gmail.com
 
-## <a href="https://0xd4y.github.io/WriteUps/TryHackMe">TryHackMe</a>
+## TryHackMe
+
+<a href="https://0xd4y.github.io/WriteUps/TryHackMe">TryHackMe</a> tends to have easier challenges than HacktheBox, but sometimes there are boxes that can prove to be a real challenge. In any case, there is a lot to learn from https://tryhackme.com, and I encourage anybody to try the website out.
 
 ### Avengers (Easy)
 

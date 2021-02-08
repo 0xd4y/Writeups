@@ -7,7 +7,7 @@ I hope you can all learn a lot from reading my writeups. If anybody has any sugg
 
 ## TryHackMe
 
-<a href="https://0xd4y.github.io/WriteUps/TryHackMe">TryHackMe</a> tends to have easier challenges than HacktheBox, but sometimes there are boxes that can prove to be a real challenge. In any case, there is a lot to learn from https://tryhackme.com, and I encourage anybody to try the website out.
+<a href="https://0xd4y.github.io/WriteUps/TryHackMe">TryHackMe</a> tends to have easier challenges than HacktheBox, but sometimes there are boxes that can prove to be a real challenge. In any case, there is a lot to learn from <a href="https://tryhackme.com">https://tryhackme.com</a>, and I encourage anybody to try the website out.
 
 ### Avengers (Easy)
 

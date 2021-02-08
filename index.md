@@ -5,7 +5,7 @@ When going through a box, I always try to root the box (even if it is not intend
 
 I hope you can all learn a lot from reading my writeups. If anybody has any suggestions or comments, please feel free to contact me: djxevis@gmail.com
 
-## TryHackMe
+## <a href="https://0xd4y.github.io/WriteUps/TryHackMe">TryHackMe</a>
 
 ### Avengers (Easy)
 

@@ -1,7 +1,8 @@
 # TryHackMe WriteUps
 
-## <h1 style="color:blue;">Easy</h1>
-
+<div class="text-#80b3ff">
+## Easy
+</div>
 ### Avengers
 
 A fun CTF-like box with an easter egg and cool (unintended) foothold. I root this box in a quite unique way, which the author of the box certainly did not intend.

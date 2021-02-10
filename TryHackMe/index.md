@@ -1,6 +1,6 @@
 # TryHackMe WriteUps
 
-## Easy
+## <h1 style="color:blue;">Easy</h1>
 
 ### Avengers
 

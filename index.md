@@ -7,6 +7,7 @@ I hope you can all learn a lot from reading my writeups. If anybody has any sugg
 
 ## TryHackMe
 
+<img src="https://user-images.githubusercontent.com/77868212/107468984-9062e500-6b2e-11eb-8d0b-33a4923685d1.png" width="412" height="231" /><!-- TryHackMe logo -->
 ![TryHackMe_logo](https://user-images.githubusercontent.com/77868212/107468984-9062e500-6b2e-11eb-8d0b-33a4923685d1.png =412x231)
 
 

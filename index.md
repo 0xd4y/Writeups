@@ -9,4 +9,4 @@ I hope you can all learn a lot from reading my writeups. If anybody has any sugg
 
 <img src="https://user-images.githubusercontent.com/77868212/107468984-9062e500-6b2e-11eb-8d0b-33a4923685d1.png" width="412" height="231" /><!-- TryHackMe logo -->
 
-TryHackMe tends to have easier challenges than HacktheBox, but sometimes there are boxes that can prove to be a real challenge. In any case, there is a lot to learn from <a href="https://tryhackme.com">https://tryhackme.com</a>, and I encourage anybody to try the website out. Come check out my <a href="https://0xd4y.github.io/WriteUps/TryHackMe">TryHackMe</a> writeups!
+TryHackMe tends to have easier challenges than HacktheBox, but sometimes there are boxes that can prove to be a real challenge. In any case, there is a lot to learn from <a href="https://tryhackme.com">https://tryhackme.com</a>, and I encourage anybody to try the website out. Come check out my <a href="https://0xd4y.github.io/WriteUps/TryHackMe">TryHackMe writeups!</a>

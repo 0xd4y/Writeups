@@ -5,8 +5,13 @@ When going through a box, I always try to root the box (even if it is not intend
 
 I hope you can all learn a lot from reading my writeups. If anybody has any suggestions or comments, please feel free to contact me: djxevis@gmail.com
 
+## HackTheBox
+
+<a href="https://hackthebox.eu">HackTheBox</a> is intended for pentesters already familiar with cybersecurity. It has many fun and instructive challenges that you can learn a lot from. It typically involves black-box penetration testing environments. Come check out my <a href="https://0xd4y.github.io/WriteUps/HackTheBox">HackTheBox writeups</a> where I delve into challenges and boxes!
+
 ## TryHackMe
 
 <img src="https://user-images.githubusercontent.com/77868212/107468984-9062e500-6b2e-11eb-8d0b-33a4923685d1.png" width="412" height="231" /><!-- TryHackMe logo -->
 
-TryHackMe tends to have easier challenges than HacktheBox, but sometimes there are boxes that can prove to be a real challenge. In any case, there is a lot to learn from <a href="https://tryhackme.com">https://tryhackme.com</a>, and I encourage anybody to try the website out. Come check out my <a href="https://0xd4y.github.io/WriteUps/TryHackMe">TryHackMe writeups!</a>
+<a href="https://tryhackme.com">TryHackMe</a> tends to have easier challenges than HacktheBox, but sometimes there are boxes that can prove to be a real challenge. In any case, there is a lot to learn from , and I encourage anybody to try the website out. Come check out my <a href="https://0xd4y.github.io/WriteUps/TryHackMe">TryHackMe writeups!</a>
+

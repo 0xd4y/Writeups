@@ -4,6 +4,7 @@
 ## Script made for uploading scripts for exploting Bank on HackTheBox
 
 import requests
+import time
 
 file_input = input("Please specify the path to the file you'd like to uplaod: ")
 reverse = open(file_input,"rb")
@@ -15,3 +16,5 @@ if ("successfully" in upload.text):
     print("Upload completed successfully!")
 else:
     print("Something went wrong!")
+    time.sleep(1)
+    print(upload.text)

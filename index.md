@@ -9,7 +9,7 @@ I hope you can all learn a lot from reading my writeups. If anybody has any sugg
 
 <img src ="https://user-images.githubusercontent.com/77868212/108651427-588d6300-7487-11eb-89fe-9a73a7581dfa.png" width="412" height="412"/><!-- HackTheBox logo -->
 
-<a href="https://hackthebox.eu">HackTheBox</a> is intended for pentesters already familiar with cybersecurity. It has many fun and instructive challenges that you can learn a lot from. It typically involves black-box penetration testing environments. Come check out my <a href="https://0xd4y.github.io/WriteUps/HackTheBox">HackTheBox writeups</a> where I delve into challenges and boxes!
+<a href="https://hackthebox.eu">HackTheBox</a> is intended for pentesters already familiar with cybersecurity. It has many fun and instructive challenges that you can learn a lot from. It typically involves black-box penetration testing environments. Come check out my <a href="https://0xd4y.github.io/WriteUps/HackTheBox">HackTheBox writeups</a> where I complete and analyze challenges and boxes!
 
 ## TryHackMe
 

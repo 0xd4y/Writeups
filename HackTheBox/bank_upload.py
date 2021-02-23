@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 ## Created by 0xd4y
-## Script made for uploading scripts for exploting Bank on HackTheBox
+## Script made for uploading files for exploting Bank on HackTheBox
 
 import requests
 import time

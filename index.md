@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/77868212/109345864-6865c800-7836-11eb-9ae7-cf809f958f84.png)<!-- 0xd4y Image -->
 
-## Welcome to 0xd4y WriteUps!
+## Welcome to 0xd4y Writeups!
 
 Here I publish all my writeups primarily from TryHackMe and HacktheBox. I tend to go in-depth about the exploits and give you good resources to where you can learn more about a specific topic. When going through a machine, I always try to root the box (even if it is not intended). This can lead to some very interesting discoveries on how the whole challenge was created. You may be surprised to hear that sometimes the creator of a box has easter eggs laying around the system!
 

@@ -2,7 +2,7 @@
 
 ## Welcome to 0xd4y Writeups!
 
-Here I publish all my writeups primarily from TryHackMe and HacktheBox. I tend to go in-depth about the exploits and give you good resources to where you can learn more about a specific topic. When going through a machine, I always try to root the box (even if it is not intended). This can lead to some very interesting discoveries on how the whole challenge was created. You may be surprised to hear that sometimes the creator of a box has easter eggs laying around the system!
+Here I publish all my writeups primarily from TryHackMe and HackTheBox. I tend to go in-depth about the exploits and give you good resources to where you can learn more about a specific topic. When going through a machine, I always try to root the box (even if it is not intended). This can lead to some very interesting discoveries on how the whole challenge was created. You may be surprised to hear that sometimes the creator of a box has easter eggs laying around the system!
 
 I hope you can all learn from reading my writeups. If anybody has any suggestions or comments, please feel free to contact me: 0xd4yWriteups@gmail.com
 

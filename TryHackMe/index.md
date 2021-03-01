@@ -1,4 +1,4 @@
-# TryHackMe WriteUps
+# TryHackMe Writeups
 
 ## Easy
 

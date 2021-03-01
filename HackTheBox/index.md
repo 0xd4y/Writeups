@@ -1,4 +1,4 @@
-# HackTheBox WriteUps
+# HackTheBox Writeups
 
 ## Easy
 

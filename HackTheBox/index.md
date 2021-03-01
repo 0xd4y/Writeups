@@ -12,7 +12,7 @@ This is a really cool box that has a couple of interesting twists. I go through 
 
 ### Bastion
 
-A very realistic box with many things to learn. Misconfigurations can be a dealbreaker when it comes to a certain attack vector. There has always been a conflict between security and convenience, and this box highlights it. I go very in-depth about multiple aspects in this box relating to bastion servers and credential databases. I hope you learn as much from this writeup as I did from this challenge!
+A very realistic box with many things to learn. Misconfigurations can be a dealbreaker when it comes to a certain attack vector. There has always been a conflict between security and convenience, and this box highlights it. I go very in-depth about multiple aspects in this box relating to bastion hosts and credential databases. I hope you learn as much from this writeup as I did from this challenge!
 
 <a href="https://0xd4y.github.io/Writeups/HackTheBox/Bastion%20Writeup.pdf">Bastion Writeup</a>
 

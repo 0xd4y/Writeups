@@ -1,4 +1,0 @@
-@import "{{ site.theme }}";
-
-<link rel="stylesheet" href="dark.css">
-<body class="hack dark"></body>

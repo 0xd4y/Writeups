@@ -16,9 +16,9 @@ A very realistic box with many things to learn. Misconfigurations can be a dealb
 
 <a href="https://0xd4y.github.io/Writeups/HackTheBox/Bastion%20Writeup.pdf">Bastion Writeup</a>
 
-## ------
+## --------
 ## Medium
-## ------
+## --------
 ### Active
 
 This was a fantastic box about the Windows Active Directory service. It showed the importance of managing your passwords in a secure way, as well as having strong passwords that are hard to crack. Something that really makes this box stand out is not so much the vulnerabilities themselves, but rather the reason why they are easily exploitable in the first place. Microsoft essentially made themselves vulnerable, as they spoke a little bit too much on THEIR OWN website! Come check out the writeup to see what I mean.

@@ -16,9 +16,17 @@ A very realistic box with many things to learn. Misconfigurations can be a dealb
 
 <a href="https://0xd4y.github.io/Writeups/HackTheBox/Bastion%20Writeup.pdf">Bastion Writeup</a>
 
-## --------
+### Writeup
+
+Yes, this box is called Writeup. This box did not have many open ports and even included a DoS protection script to prevent gobusters. The problem is we had to discover certain directories in order to extract essential information about the web server. Come check out my writeup for Writeup, as you will learn a lot about hashes and enumeration.
+
+<a href="https://0xd4y.github.io/Writeups/HackTheBox/Writeup%20Writeup.pdf">Writeup Writeup</a>
+
+
+
 ## Medium
-## --------
+
+
 ### Active
 
 This was a fantastic box about the Windows Active Directory service. It showed the importance of managing your passwords in a secure way, as well as having strong passwords that are hard to crack. Something that really makes this box stand out is not so much the vulnerabilities themselves, but rather the reason why they are easily exploitable in the first place. Microsoft essentially made themselves vulnerable, as they spoke a little bit too much on THEIR OWN website! Come check out the writeup to see what I mean.

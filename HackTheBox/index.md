@@ -1,8 +1,11 @@
 ---
 layout: post
-title: "This is <span class="red">the Title</span>"
+title:  "HackTheBox Writeups"
+date:   2021-03-02 12:32:45 +0200
 ---
+
 # HackTheBox Writeups
+
 ## Easy
 
 

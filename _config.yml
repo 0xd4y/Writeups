@@ -6,3 +6,5 @@ header_pages:
   - Contact.markdown
   - index.markdown
 style: dark
+plugins:
+  - jekyll-seo-tag

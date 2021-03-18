@@ -6,7 +6,7 @@ Here I publish all my writeups primarily from TryHackMe and HackTheBox. I tend t
 
 ## HackTheBox
 
-![HackTheBox Logo](images/HackTheBox-Logo2.png#center)
+![HackTheBox Logo](images/HackTheBox-Logo2.webp#center)
 
 <a href="https://hackthebox.eu">HackTheBox</a> is intended for pentesters already familiar with cybersecurity. It has many fun and instructive challenges that you can learn a lot from. It typically involves black-box penetration testing environments. Come check out my <a href="https://0xd4y.github.io/Writeups/HackTheBox">HackTheBox writeups</a> where I complete and analyze challenges and boxes!
 

@@ -5,8 +5,9 @@ title: "HackTheBox Writeups"
 
 # HackTheBox Writeups
 
-## Easy
-
+``` diff
++ Easy
+```
 
 ### Bank
 

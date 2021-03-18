@@ -1,4 +1,4 @@
-remote_theme: 0xd4y/jekyll-theme-console
+theme: 0xd4y/jekyll-theme-console
 
 header_pages:
   - HackTheBox.markdown

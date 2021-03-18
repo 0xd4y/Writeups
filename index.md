@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/77868212/109345864-6865c800-7836-11eb-9ae7-cf809f958f84.png)<!-- 0xd4y Image -->
+![0xd4y Logo](/images/0xd4y Logo 3#center)<!-- 0xd4y Image -->
 
 # Welcome to 0xd4y Writeups!
 

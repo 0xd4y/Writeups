@@ -1,4 +1,4 @@
-![0xd4y Logo](images/0xd4y-Logo.png#center)<!-- 0xd4y Image -->
+<img src="https://github.com/0xd4y/Writeups/blob/gh-pages/images/0xd4y-Logo.png" width="100" height="100">
 
 # Welcome to 0xd4y Writeups!
 

@@ -1,7 +1,6 @@
 ---
 layout: default
-title:  "HackTheBox Writeups"
-date:   2021-03-02 12:32:45 +0200
+title: "HackTheBox Writeups"
 ---
 
 # HackTheBox Writeups

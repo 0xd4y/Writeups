@@ -8,3 +8,4 @@ header_pages:
 style: dark
 plugins:
   - jekyll-seo-tag
+future: true

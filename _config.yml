@@ -1,4 +1,4 @@
-theme: 0xd4y/jekyll-theme-console
+theme: jekyll-theme-console
 
 header_pages:
   - HackTheBox.markdown

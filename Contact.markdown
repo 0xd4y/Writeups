@@ -1,5 +1,5 @@
 ---
 layout: page
-title: /
-permalink: /Writeups/
+title: /Contact
+permalink: /Contact/
 ---

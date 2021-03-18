@@ -1,5 +1,5 @@
 ---
 layout: page
-title: HackTheBox
+title: /HackTheBox
 permalink: /HackTheBox/
 ---

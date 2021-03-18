@@ -1,4 +1,4 @@
-![0xd4y Logo 3](images/0xd4y-Logo-3#center)<!-- 0xd4y Image -->
+![0xd4y Logo 3](images/0xd4y-Logo-3.png#center)<!-- 0xd4y Image -->
 
 # Welcome to 0xd4y Writeups!
 

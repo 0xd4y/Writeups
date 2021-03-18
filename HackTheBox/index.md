@@ -5,7 +5,7 @@ title: "HackTheBox Writeups"
 
 # HackTheBox Writeups
 
-<p style="font-size:30px">Easy</p>
+#### Easy
 
 Bank
 
@@ -26,7 +26,7 @@ Yes, this box is called Writeup. This box did not have many open ports and even 
 
 <a href="https://0xd4y.github.io/Writeups/HackTheBox/Writeup%20Writeup.pdf">Writeup Writeup</a>
 
-## Medium
+##### Medium
 
 ### Active
 

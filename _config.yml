@@ -1,6 +1,6 @@
 remote_theme: b2a3e8/jekyll-theme-console
 
 header_pages:
-  - HackTheBox
-  - TryHackMe
-  - Contact
+  - HackTheBox.markdown
+  - TryHackMe.markdown
+  - Contact.markdown

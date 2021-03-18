@@ -1,5 +1,7 @@
 # HackTheBox Writeups
+```
 title: 'This is <span class="red">the Title</span>'
+```
 ## Easy
 
 

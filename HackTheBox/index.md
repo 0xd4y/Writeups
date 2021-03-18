@@ -22,9 +22,9 @@ Yes, this box is called Writeup. This box did not have many open ports and even 
 
 <a href="https://0xd4y.github.io/Writeups/HackTheBox/Writeup%20Writeup.pdf">Writeup Writeup</a>
 
-
-
+<p style="color:#f1af63;">
 ## Medium
+</p>
 
 
 ### Active

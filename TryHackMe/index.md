@@ -1,3 +1,8 @@
+---
+layout: post
+title: "TryHackMe Writeups"
+---
+
 ###### TryHackMe Writeups
 
 ### Easy

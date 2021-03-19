@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Contact"
+---
+
 I hope you can learn from reading my writeups! If you have any suggestions or comments, please feel free to contact me: 
 
 ## Gmail

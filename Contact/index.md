@@ -1,7 +1,7 @@
 I hope you can learn from reading my writeups! If you have any suggestions or comments, please feel free to contact me: 
 
 ## Gmail
-0xd4yWriteups@gmail.com
+<a href = "mailto: 0xd4yWriteups@gmail.com">0xd4yWriteups@gmail.com</a>
 
 ## LinkedIn
 <a href="https://www.linkedin.com/in/segev-eliezer/">https://www.linkedin.com/in/segev-eliezer/</a>

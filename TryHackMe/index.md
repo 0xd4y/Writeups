@@ -7,29 +7,7 @@
 
 A fun CTF-like box with an easter egg and cool (unintended) foothold. I root this box in a quite unique way, which the author of the box certainly did not intend.
 
-<style>
-a:link {
-  color: green;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:visited {
-  color: pink;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
-}
-a:active {
-  color: yellow;
-  background-color: transparent;
-  text-decoration: underline;
-}
-</style>
-<a href="https://0xd4y.github.io/Writeups/TryHackMe/Avengers%20Writeup%20-%20Unintended%20and%20Secret%20.pdf">Avengers - Unintended and Secret</a>
+<a href="https://0xd4y.github.io/Writeups/TryHackMe/Avengers%20Writeup%20-%20Unintended%20and%20Secret%20.pdf" class="class2">Avengers - Unintended and Secret</a>
 
 
 
@@ -40,7 +18,7 @@ a:active {
 
 A realistic box. Many things were learned during this challenge, and I highly recommend reading this writeup.
 
-<a href="https://0xd4y.github.io/Writeups/TryHackMe/Keldagrim%20Writeup.pdf">Keldagrim WriteUp</a>
+<a href="https://0xd4y.github.io/Writeups/TryHackMe/Keldagrim%20Writeup.pdf" class="class3">Keldagrim WriteUp</a>
 
 ##### Hard
 

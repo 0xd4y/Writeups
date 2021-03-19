@@ -1,3 +1,7 @@
+---
+layout: home
+title: "0xd4y Writeups"
+---
 
 ![0xd4y Logo](images/0xd4y-Logo.png#center)
 

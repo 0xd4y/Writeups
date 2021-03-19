@@ -18,7 +18,7 @@ A fun CTF-like box with an easter egg and cool (unintended) foothold. I root thi
 
 A realistic box. Many things were learned during this challenge, and I highly recommend reading this writeup.
 
-<a href="https://0xd4y.github.io/Writeups/TryHackMe/Keldagrim%20Writeup.pdf" class="class3">Keldagrim WriteUp</a>
+<a href="https://0xd4y.github.io/Writeups/TryHackMe/Keldagrim%20Writeup.pdf" class="class3">Keldagrim Writeup</a>
 
 ##### Hard
 

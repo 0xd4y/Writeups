@@ -9,3 +9,4 @@ style: dark
 plugins:
   - jekyll-seo-tag
 future: true
+listen_for_clients_preferred_style: true

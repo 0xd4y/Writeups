@@ -10,4 +10,4 @@ plugins:
   - jekyll-seo-tag
 future: true
 
-footer: '<a href="https://github.com/0xd4y/Writeups" class="class7">0xd4y</a><a href="https://github.com/0xd4y/Writeups" class="class5">@</a><a href="https://github.com/0xd4y/Writeups" class="class6">Writeup</a>
+footer: '<a href="https://github.com/0xd4y/" class="class7">0xd4y</a><a href="https://github.com/0xd4y/" class="class5">@</a><a href="https://github.com/0xd4y/" class="class6">Writeup</a>

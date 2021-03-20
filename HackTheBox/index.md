@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "HackTheBox Writeups"
+footer: '<a href="https://github.com/0xd4y/Writeups" class="class7">0xd4y</a><a href="https://github.com/0xd4y/Writeups" class="class5">@</a><a href="https://github.com/0xd4y/Writeups" class="class6">Writeup</a><a href="https://github.com/0xd4y/Writeups"> Github</a>'
 ---
 
 ###### HackTheBox Writeups

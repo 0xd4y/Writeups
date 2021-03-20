@@ -17,4 +17,4 @@ Here I publish all my writeups primarily from TryHackMe and HackTheBox. I tend t
 
 ![TryHackMe Logo](images/TryHackMe-Logo.png#center)
 
-<a href="https://tryhackme.com">TryHackMe</a> tends to have easier challenges than HackTheBox, but sometimes there are boxes that can prove to be a real challenge. In any case, there is a lot to learn from this website, and I encourage you to try it out. Come check out my <a href="https://0xd4y.github.io/Writeups/TryHackMe">TryHackMe writeups!</a>
+<a href="https://tryhackme.com">TryHackMe</a> tends to have easier challenges than HackTheBox, but sometimes there are boxes that can prove to be a real challenge. In any case, there is a lot to learn from this website, and I encourage you to try it out. Come check out my <a href="https://0xd4y.github.io/Writeups/TryHackMe">TryHackMe writeups</a>!

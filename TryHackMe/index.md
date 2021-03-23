@@ -20,7 +20,7 @@ A fun CTF-like box with an easter egg and cool (unintended) foothold. I root thi
 
 ## Develpy
 
-This box had a fun foothold, and it was a nice little challenge that showed the importance of making your programs secure. I highly recommend you to read this writeup, as after exploiting the program, I go over how to patch it to make it more secure.
+This box had a fun foothold, and it was a nice little challenge that showed the importance of making your programs secure. I highly recommend you read this writeup, as after exploiting the program, I go over how to patch it to make it more secure.
 
 <a href="https://0xd4y.github.io/Writeups/TryHackMe/Develpy%20Writeup.pdf" class="class3">Develpy Writeup</a>
 

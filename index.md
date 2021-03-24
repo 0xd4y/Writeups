@@ -3,7 +3,7 @@ layout: home
 title: "0xd4y Writeups"
 ---
 
-![0xd4y Logo](images/0xd4y-Logo-Black.JPG#center)
+![0xd4y Logo](images/0xd4y-Logo-Black-Small.jpg#center)
 
 ###### 0xd4y Writeups
 

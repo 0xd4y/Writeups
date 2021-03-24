@@ -7,7 +7,7 @@ title: "0xd4y Writeups"
 
 ###### 0xd4y Writeups
 
-Here I publish all my writeups primarily from TryHackMe and HackTheBox. I tend to go in-depth about the exploits and give you good resources to where you can learn more about a specific topic. When going through a machine, I always try to root the box (even if it is not intended). This can lead to some very interesting discoveries on how the whole challenge was created. You may be surprised to hear that sometimes the creator of a box has easter eggs laying around the system!
+Here I publish all my writeups primarily from TryHackMe and HackTheBox. Instead of simply rooting a machine, I go over why exploits worked the way they did, and how these vulnerabilities were patched. For each box that I write about, I go over my thought process, as it may be insightful to hear how certain attack vectors were identified. I try to make my writeups as detailed as possible, and I hope that you can learn as much from reading my writeups as I do from making them!
 
 ## HackTheBox
 

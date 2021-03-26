@@ -32,4 +32,8 @@ A realistic box. Many things were learned during this challenge, and I highly re
 
 ##### Hard
 
-Coming soon!
+## PythonPlayground
+
+Python has a lot of features that some people may not know about. In this challenge it was important to be creative throughout each step of exploitation.  
+
+<a href="https://0xd4y.github.io/Writeups/TryHackMe/PythonPlayground%20Writeup.pdf" class="class4">PythonPlayground Writeup</a>

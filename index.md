@@ -4,6 +4,9 @@ title: "0xd4y Writeups"
 ---
 
 ![0xd4y Logo](images/0xd4y-logo-gray-small.png#center)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0xd4y/Writeups/gh-pages/images/0xd4y-logo-gray-small.png">
+</p>
 
 ###### 0xd4y Writeups
 

@@ -2,9 +2,9 @@
 layout: home
 title: "0xd4y Writeups"
 ---
-
+<p align="center">
 ![0xd4y Logo](images/0xd4y-logo-gray-small.png#center)
-
+</p>
 ###### 0xd4y Writeups
 
 Here I publish all my writeups primarily from TryHackMe and HackTheBox. Instead of simply rooting a machine, I go over why exploits worked the way they did, and how these vulnerabilities were patched / could be patched. For each box that I write about, I go over my thought process, as it may be insightful to hear how certain attack vectors were identified. I try to make my writeups as detailed as possible, and I hope that you can learn as much from reading my writeups as I do from making them!

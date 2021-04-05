@@ -3,7 +3,6 @@ layout: home
 title: "0xd4y Writeups"
 ---
 
-![0xd4y Logo](images/0xd4y-logo-gray-small.png#center)
 <p align="center">
 <img src="images/0xd4y-logo-gray-small.png" alt="hi" class="inline"/>
 </p>

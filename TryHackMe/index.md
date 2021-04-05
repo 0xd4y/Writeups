@@ -15,7 +15,7 @@ A fun CTF-like box with an easter egg and cool (unintended) foothold. I root thi
 
 ## Wreath Network
 
-This challenge involved exploiting a vulnrable network of three computers. Two of which were susceptible to exploitations of outdated software. The last machine involved a unique exploitation of sending a malicious image file. I highly encourage you to read this writeup, as I go into detail about how Mimikatz, evil-winrm, and network pivoting work.
+This challenge involved exploiting a vulnerable network of three computers. Two of which were susceptible to exploitations of outdated software. The last machine involved a unique foothold centered around the creation of a malicious image file. I highly encourage you to read this writeup, as I go into detail about how Mimikatz, evil-winrm, and network pivoting work.
 
 <a href="https://0xd4y.github.io/Writeups/TryHackMe/Wreath%20Network%20Writeup.pdf" class="class2">Wreath Network Writeup</a>
 

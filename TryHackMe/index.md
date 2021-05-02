@@ -7,11 +7,15 @@ title: "TryHackMe Writeups"
 
 ### Easy
 
+This box is a great introduction to the exploitation of a web server. It involves exploiting a web service through an LFI vulnerability and upgrading that to an RCE exploit via log poisioning. The method to escalating to root privileges is also instructive.
+
+<a href="https://0xd4y.github.io/Writeups/TryHackMe/Archangel%20Writeu.pdf" class="class2">Archangel Writeup</a>
+
 ## Avengers
 
 A fun CTF-like box with an easter egg and cool (unintended) foothold. I root this box in a quite unique way, which the author of the box certainly did not intend.
 
-<a href="https://0xd4y.github.io/Writeups/TryHackMe/Avengers%20Writeup%20-%20Unintended%20and%20Secret%20.pdf" class="class2">Avengers - Unintended and Secret</a>
+<a href="https://0xd4y.github.io/Writeups/TryHackMe/Avengers%20Writeup%20-%20Unintended%20and%20Secret%20.pdf" class="class2">Avengers Writeup</a>
 
 ## Wreath Network
 

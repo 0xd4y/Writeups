@@ -1,4 +1,4 @@
-####### Misc
+###### Misc
 
 All writeups not related to TryHackMe or HackTheBox are posted on this page. 
 

@@ -3,6 +3,7 @@ remote_theme: 0xd4y/jekyll-theme-console
 header_pages:
   - HackTheBox.markdown
   - TryHackMe.markdown
+  - Misc.markdown
   - Contact.markdown
   - index.markdown
 style: dark

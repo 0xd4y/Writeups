@@ -1,8 +1,10 @@
-# Misc
+####### Misc
 
 All writeups not related to TryHackMe or HackTheBox are posted on this page. 
 
-## OverTheWire
+# OverTheWire
+
+<a href="https://overthewire.org/wargames/">OverTheWire</a> is a website that contains many different wargames ranging from learning Unix, binary explotiation, scripting, among many other fun and instructional challenges.
 
 ## Narnia
 

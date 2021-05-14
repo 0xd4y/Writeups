@@ -14,7 +14,7 @@ Here I publish all my writeups primarily from TryHackMe and HackTheBox. Instead 
 
 ![HackTheBox Logo](images/HackTheBox-Logo2.webp#center)
 
-<a href="https://hackthebox.eu">HackTheBox</a> is intended for pentesters already familiar with cybersecurity. It has many fun and instructive challenges that you can learn a lot from. It typically involves black-box penetration testing environments. I higly encourage you to read my <a href="https://0xd4y.github.io/Writeups/HackTheBox">HackTheBox writeups</a>!
+<a href="https://hackthebox.eu">HackTheBox</a> is intended for pentesters already familiar with cybersecurity. It has many fun and instructive challenges that can be learned a lot from. It typically involves black-box penetration testing environments. I higly encourage you to read my <a href="https://0xd4y.github.io/Writeups/HackTheBox">HackTheBox writeups</a>!
 
 # TryHackMe
 

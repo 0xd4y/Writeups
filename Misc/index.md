@@ -13,6 +13,6 @@ All writeups not related to TryHackMe or HackTheBox are posted on this page.
 
 ## Narnia
 
-This challenge was about binary exploitaiton. There were a total of nine binaries which increased in difficulty after each exploit. In this report, common binary exploitation techniques are discussed including ret2libc, shellcode injection, format string exploitation, among others. 
+This challenge was about binary exploitation. There were a total of nine binaries which increased in difficulty after each exploit. Common binary exploitation techniques are discussed in this report including ret2libc, shellcode injection, format string exploitation, among others. 
 
 <a href="https://0xd4y.github.io/Writeups/Misc/Narnia%20Writeup.pdf">Narnia Writeup</a>

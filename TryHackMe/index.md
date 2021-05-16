@@ -7,6 +7,7 @@ title: "TryHackMe Writeups"
 
 ### Easy
 
+## Archangel
 This box is a great introduction to the exploitation of a web server. It involves exploiting a web service through an LFI vulnerability and upgrading that to an RCE exploit via log poisoning. The method of escalating to root privileges is also instructive.
 
 <a href="https://0xd4y.github.io/Writeups/TryHackMe/Archangel%20Writeup.pdf" class="class2">Archangel Writeup</a>

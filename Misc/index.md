@@ -7,6 +7,16 @@ title: "Miscellaneous Writeups"
 
 All writeups not related to TryHackMe or HackTheBox are posted on this page. 
 
+# Pwnable.kr
+
+<a href="http://pwnable.kr/">Pwnable.kr</a> is a website dedicated to providing reverse engineering and binary exploitation challenges at varying difficulties.
+
+## Passcode
+
+scanf() is a function that is widely used in C programs. This binary, which is seemingly secure, made subtle but dangerous programming mistakes that resulted in a security hole in which a user can manipulate memory. Since this binary is dynamically linked, overwriting the GOT entry subsequently forces the program to jump to memory of the attacker's choice when the manipulated function pointer gets called.
+
+<a href="https://0xd4y.github.io/Writeups/Misc/Passcode%20Writeup.pdf" class="class2">Passcode Writeup</a>
+
 # OverTheWire
 
 <a href="https://overthewire.org/wargames/">OverTheWire</a> is a website that contains many different wargames ranging from learning Unix, binary exploitation, scripting, along with many other fun and instructional challenges.
@@ -23,12 +33,3 @@ Behemoth is the sequel to Narnia and is rated to be slightly harder. In comparis
 
 <a href="https://0xd4y.github.io/Writeups/Misc/Behemoth%20Writeup.pdf" class="class3">Behemoth Writeup</a>
 
-# Pwnable.kr
-
-<a href="http://pwnable.kr/">Pwnable.kr</a> is a website dedicated to providing reverse engineering and binary exploitation challenges at varying difficulties.
-
-## Passcode
-
-scanf() is a function that is widely used in C programs. This binary, which is seemingly secure, made subtle but dangerous programming mistakes that resulted in a security hole in which a user can manipulate memory. Since this binary is dynamically linked, overwriting the GOT entry subsequently forces the program to jump to memory of the attacker's choice when the manipulated function pointer gets called.
-
-<a href="https://0xd4y.github.io/Writeups/Misc/Passcode%20Writeup.pdf" class="class2">Passcode Writeup</a>

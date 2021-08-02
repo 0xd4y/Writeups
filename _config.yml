@@ -6,6 +6,7 @@ header_pages:
   - Misc.markdown
   - Contact.markdown
   - index.markdown
+  - ctf.markdown
 style: dark
 plugins:
   - jekyll-seo-tag

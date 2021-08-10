@@ -21,6 +21,12 @@ A very realistic box with many things to learn. Misconfigurations can be a dealb
 
 <a href="https://0xd4y.github.io/Writeups/HackTheBox/Bastion%20Writeup.pdf" class="class2">Bastion Writeup</a>
 
+## Love 
+
+This Windows box dealt with exploiting an SSRF vulnerability which allowed for the viewing of a sensitive webpage hosted internally on the target. After exploting a vulnerable version of "voting system" software, a shell as a low-privileged user was returned. Finally, by taking advantage of an HKLM misconfiguration, a shell as the SYSTEM user could be obtained (namely by installing a malicious MSI package).
+
+<a href="https://0xd4y.github.io/Writeups/HackTheBox/Love%20Writeup.pdf" class="class2">Love Writeup</a>
+
 ## Writeup
 
 Yes, this box is called Writeup. This box did not have many open ports and even included a DoS protection script to prevent gobusters. The problem is we had to discover certain directories in order to extract essential information about the web server. Come check out my writeup for Writeup, as you will learn a lot about hashes and enumeration.

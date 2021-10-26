@@ -8,7 +8,7 @@ title: "0xd4y Writeups"
 </p>
 ###### 0xd4y Writeups
 
-Here I publish all my writeups primarily from TryHackMe and HackTheBox. Instead of simply rooting a machine, I go over why exploits worked the way they did, and how these vulnerabilities were patched or could be patched. For each box that I write about, I go over my thought process as it may be insightful to hear how certain attack vectors were identified. I try to make each writeup as detailed as possible, and I hope that you can learn as much from reading my writeups as I do from making them!
+Here I publish my writeups from TryHackMe, HackTheBox, and other sites. Instead of simply rooting a machine, I go over why exploits worked the way they did, and how these vulnerabilities were patched or could be patched. For each writeup, I go over my thought process as it may be insightful to hear how certain attack vectors were identified. I write each writeup as detailed as possible, and I hope that you can learn as much from reading my writeups as I do from making them!
 
 # HackTheBox
 
@@ -20,4 +20,4 @@ Here I publish all my writeups primarily from TryHackMe and HackTheBox. Instead 
 
 ![TryHackMe Logo](images/TryHackMe-Logo.png#center)
 
-<a href="https://tryhackme.com">TryHackMe</a> tends to have easier challenges than HackTheBox, but sometimes there are boxes that can prove to be a real challenge. In any case, there is a lot to learn from this website, and I encourage you to try it out. Come check out my <a href="https://0xd4y.github.io/Writeups/TryHackMe">TryHackMe writeups</a>!
+<a href="https://tryhackme.com">TryHackMe</a> has many challenges for learning red team and blue team aspects. It is a highly competetive website with over 720,000 members. There is a lot to learn from this website, and I encourage you to try it out. Come check out my <a href="https://0xd4y.github.io/Writeups/TryHackMe">TryHackMe writeups</a>!

@@ -20,4 +20,4 @@ Here I publish my writeups from TryHackMe, HackTheBox, and other sites. Instead 
 
 ![TryHackMe Logo](images/TryHackMe-Logo.png#center)
 
-<a href="https://tryhackme.com">TryHackMe</a> has many challenges for learning red team and blue team aspects. It is a highly competetive website with over 720,000 members. There is a lot to learn from this website, and I encourage you to try it out. Come check out my <a href="https://0xd4y.github.io/Writeups/TryHackMe">TryHackMe writeups</a>!
+<a href="https://tryhackme.com">TryHackMe</a> has many hands-on challenges for learning red team and blue team concepts. It is a highly competetive website with over 720,000 members. There is a lot to learn from this website, and I encourage you to try it out. Come check out my <a href="https://0xd4y.github.io/Writeups/TryHackMe">TryHackMe writeups</a>!

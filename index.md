@@ -16,12 +16,10 @@ Writing these reports not only helps in solidfiying knowledge gained from an eng
 
 ![Beach Chess](images/beach_chess_smaller.jpg#center)
 
-With a track record of over 200 machines penetrated and secured, I have a 100% success rate in cybersecurity engagements in both red and blue team aspects.
+I first started learning cybersecurity in January 2016 and instantly fell in love with it. My passion for chess gave me a big headstart in the cybersecurity field, as I already posssessed the abilities to focus under pressure, think critically, and problem solve. Since then I have penetrated and secured over 200 machines (some of these engagements are posted on this website). 
 
-Along with being ranked in the top 0.1% of HackTheBox, I am in the top 0.1% of TryHackMe, the largest cybersecurity real-world lab service in the world.
+Additionally, I led and created a cybersecurity team (ZeroToHero) from the ground up, and used my experience teaching to mentor my team members to a level of cybersecurity proficiency. It was the most rewarding thing to see my team collectively grow from winning 20% of competitions to 80%, and it was only possible due to the support and respect that my team members and I gave one another. 
 
-Additionally, with 15 years of competitive chess under my belt, I am an experienced problem-solver and am skilled at being focused in intense, high-pressure environments. My proficiency in being a logical and creative thinker in chess has poured into my abilities of being a well-rounded and sharp penetration tester and security engineer.
+I initially created this website because I know many people starting in the cybersecurity field feel overwhelmed. I was fortunate to have over a decade of chess experience, and I want to give back to the cybersecurity community. Therefore, I write my reports in a very detailed manner without leaving important information out. 
 
-I am a team player and open-minded individual who is looking to learn as much as possible. 
-
-Please <a href="https://0xd4y.github.io/Writeups/Contact/">contact</a> me if you have any questions, comments, sugestions, or would simply like to reach out!
+I am a team player and open-minded individual who is looking to learn as much as possible. Please <a href="https://0xd4y.github.io/Writeups/Contact/">contact</a> me if you have any questions, comments, suggestions, or would simply like to reach out!

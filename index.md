@@ -12,7 +12,7 @@ Here I publish my public report from various penetration tests that I have condu
 
 # About Me
 
-![Beach Chess](images/beach_chess.jpg#center)
+![Beach Chess](images/beach_chess_smaller.jpg#center)
 
 With a track record of over 200 machines penetrated and secured, I have a 100% success rate in cybersecurity engagements in both red and blue team aspects.
 

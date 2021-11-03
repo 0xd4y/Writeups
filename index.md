@@ -11,7 +11,7 @@ title: "0xd4y Writeups"
 Here I publish my public report from various penetration tests that I have conducted. Instead of simply rooting a machine and writing down its vulnerabilities, I go over why exploits worked the way they did, and how these vulnerabilities could be patched. For each report, I go over my thought process as it is insightful to hear how certain attack vectors were identified. This analysis is essential for clients so as to not only assist them in patching vulnerabilities, but to also prevent the same mistakes from happening again. 
 
 # About Me
-
+![Beach Chess](images/beach_chess.jpg#center)
 With a track record of over 200 machines penetrated and secured, I have a 100% success rate in cybersecurity engagements in both red and blue team aspects.
 
 Along with being ranked in the top 0.1% of HackTheBox, I am in the top 0.1% of TryHackMe, the largest cybersecurity real-world lab service in the world.

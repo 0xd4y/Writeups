@@ -45,3 +45,5 @@ This was a fantastic box about the Windows Active Directory service. It showed t
 ## Writer
 
 This system contained an SQL injection vulnerability which could be leveraged to not only log into an application with admin privileges, but also could be used to read local files on the target. After leaking the source code of the website, an insecure usage of handling files was exploited to get RCE. With a www-data shell on the system, an insecure password of a local user located in the SQL database was cracked. Eventually the system was fully compromised through misconfigurations relating to SMTP and APT.
+
+<a href="https://0xd4y.github.io/Writeups/HackTheBox/Writer%20Writeup.pdf" class="class3">Writer Writeup</a>

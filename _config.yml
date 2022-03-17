@@ -5,9 +5,10 @@ header_pages:
   - TryHackMe.markdown
   - ctf.markdown
   - Misc.markdown
+  - Notes.markdown
   - Contact.markdown
   - index.markdown
-  - Notes.markdown
+  
   
 style: dark
 plugins:

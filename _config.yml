@@ -7,6 +7,7 @@ header_pages:
   - Misc.markdown
   - Contact.markdown
   - index.markdown
+  - Notes.markdown
   
 style: dark
 plugins:

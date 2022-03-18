@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Notes"
+---
+
 ###### Notes
 
 A collection of some of the notes that I wrote. These notes mianly include topics related to Information Security. 

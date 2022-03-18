@@ -21,7 +21,7 @@ Thanks for visiting my website! My name is Segev Eliezer. I first started learni
 
 Additionally, I led and created a cybersecurity team (ZeroToHero) from the ground up, and used my experience teaching to mentor my team members to a level of cybersecurity proficiency. It was the most rewarding thing to see my team collectively grow from winning 20% of competitions to 80%, and it was only possible due to the support and respect that my team members and I had for one another.
 
-I initially created this website because I know many people starting in the cybersecurity field feel overwhelmed. I am fortunate to have over a decade of chess experience, and I want to give back to the cybersecurity community. Therefore, I write my reports in a very detailed manner without leaving important information out so that readers can learn as much as possible without feeling lost.
+I initially created this website because I know many people starting in the cybersecurity field feel overwhelmed, and I want to give back to the cybersecurity community. Therefore, I write my reports in a very detailed manner without leaving important information out so that readers can learn as much as possible without feeling lost.
 
 I am a team player and open-minded individual who is looking to learn as much as possible. Please <a href="https://0xd4y.github.io/Writeups/Contact/">contact</a> me if you have any questions, comments, suggestions, or would simply like to reach out!
 

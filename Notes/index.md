@@ -5,7 +5,7 @@ title: "Notes"
 
 ###### Notes
 
-A collection of some of the notes that I wrote. These notes mianly include topics related to Information Security. 
+A collection of some of the notes that I wrote. These notes mainly include topics related to Information Security. 
 
 ## AWS - Security Specialty
 Notes that I wrote in preparation for the Certified AWS Security - Specialty exam. These notes cover fundamental information about the AWS infrastructure. It is recommended that you install Obsidian and download the zip file instead. This way you can navigate through these notes a lot more quickly.

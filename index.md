@@ -8,6 +8,8 @@ title: "0xd4y Writeups"
 </p>
 ###### 0xd4y Writeups
 
+<b>This is my old website. Please visit my <a href="https://0xd4y.com">new website</a>.</b>
+
 Here I publish my public reports from various penetration tests that I have conducted. Instead of simply rooting a machine and writing down its vulnerabilities, I go over why exploits worked the way they did, and how these vulnerabilities could be patched. For each report, I go over my thought process as it is insightful to hear how certain attack vectors were identified. This analysis is essential for clients so as to not only assist them in patching vulnerabilities, but to also prevent the same mistakes from happening again.
 
 Writing these reports not only helps in solidifying knowledge gained from an engagement, but also results in learning concepts and tactics beyond the surface level of the vulnerable system. I decided to publish these unconfidential reports in order to share some of my knowledge with the public. This was accomplished in hope that the reader will learn from reading my reports just as much as I do from writing them.
